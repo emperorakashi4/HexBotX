@@ -8,7 +8,7 @@ import asyncio
 import json
 from telethon import events
 from telethon.tl import functions, types
-from sql_helper.pmpermit_sql import is_approved, approve, disapprove, get_all_approved
+from userbot.plugins.sql_helper.pmpermit_sql import is_approved, approve, disapprove, get_all_approved
 from uniborg.util import admin_cmd
 
 
