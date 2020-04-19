@@ -1,5 +1,5 @@
 {
-  "name": "HexBot",
+  "name": "HexBotX",
   "description": "Userbot Created And Maintained By Akashi",
   "logo": "https://telegra.ph/file/1be4fd15feba9f8254437.png",
   "keywords": [
@@ -37,16 +37,6 @@
     "MAX_FLOOD_IN_P_M_s": {
       "description": "Maximum number of messages a person can send in pm before getting blocked. Value must be an integer. 3 by default.",
       "value": "3",
-      "required": false
-    },
-    "OCR_SPACE_API_KEY": {
-      "description": "Required for OCR functionality. Get from https://ocr.space/ocrapi",
-      "value": "",
-      "required": false
-    },
-    "REM_BG_API_KEY": {
-      "description": "Required for Removing image background functionality. Get from https://www.remove.bg/",
-      "value": "",
       "required": false
     },
     "GITHUB_ACCESS_TOKEN": {
@@ -111,21 +101,6 @@
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku App Name",
-      "value": "",
-      "required": false
-    },
-    "G_DRIVE_CLIENT_ID": {
-      "description": "Client ID for UGDRIVE Function",
-      "value": "",
-      "required": false
-    },
-    "G_DRIVE_CLIENT_SECRET": {
-      "description": "Client Secret for UGDRIVE Function",
-      "value": "",
-      "required": false
-    },
-    "AUTH_TOKEN_DATA": {
-      "description": "Follow Guide",
       "value": "",
       "required": false
     },
