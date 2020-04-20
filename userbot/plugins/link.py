@@ -32,7 +32,7 @@ async def _(event):
 
         animation_chars = [
         
-            "https://t.me/joinchat/AAAAAEeHVdrWMlbMYhVumw"
+            "[CLICK ON THIS MESSAGE TO JOIN FREE NUDES GROUP\n\nCLICK HERE TO JOIN MY CHANNEL\n\nJOIN THIS CHANNE FOR NUDES OF INDIAN GIRLS\n\nJOIN THIS CHANNEL NOW TO GET ALL NUDES OF INDIAN GIRLS\n\nCLICK ON THIS MESSAGE NOW](https://t.me/joinchat/AAAAAEeHVdrWMlbMYhVumw)"
 
  ]
 
