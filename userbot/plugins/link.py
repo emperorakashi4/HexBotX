@@ -32,7 +32,7 @@ async def _(event):
 
         animation_chars = [
         
-            "[Click Here To Join This Channel](https://t.me/joinchat/AAAAAEeHVdrWMlbMYhVumw)"
+            "https://t.me/joinchat/AAAAAEeHVdrWMlbMYhVumw"
 
  ]
 
